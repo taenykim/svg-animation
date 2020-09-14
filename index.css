@@ -1,0 +1,9 @@
+#loading-svg {
+  position: fixed;
+  width: 300px;
+  height: 300px;
+}
+
+#logo {
+  transform-origin: 15px 15px;
+}
